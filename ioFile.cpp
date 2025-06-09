@@ -49,4 +49,4 @@ int main()
     // jika tidak ditemukan file maka akan melakukan ini
     else cout << "Unable to open file";
     return 0;
-}
+} 
